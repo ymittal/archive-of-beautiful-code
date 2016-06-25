@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:initialLayout="@layout/alarm_widget_layout"
+    android:label="Add Alarm"
+    android:minHeight="48dp"
+    android:minWidth="48dp"
+    android:previewImage="@drawable/add_alarm"></appwidget-provider>
